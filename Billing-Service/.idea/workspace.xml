@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff2576be-4720-4ab0-90f0-724e49c68a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/BillingServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/controller/BillingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/model/BillingRecord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/model/MeterReading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/repository/BillingRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Billing/Service/service/BillingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grid-Monitoring-Service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meter-Management-Service" afterDir="false" />
-    </list>
+    <list default="true" id="ff2576be-4720-4ab0-90f0-724e49c68a07" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,9 +30,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2o5nLgARDKg1cV8BJTtBufXH7ZS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,6 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.BillingServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/jagadeesh/SmartGrid/Billing-Service",
     "node.js.detected.package.eslint": "true",
@@ -103,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730168249408</updated>
-      <workItem from="1730168250507" duration="5619000" />
+      <workItem from="1730168250507" duration="5673000" />
     </task>
     <servers />
   </component>
